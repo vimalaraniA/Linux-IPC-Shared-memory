@@ -1,5 +1,5 @@
-# Name : ABDULLAH R
-# Reg no : 212223230004
+# Name : VIMALA RANI A
+# Reg no : 212223040240
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
